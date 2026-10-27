@@ -1,0 +1,4 @@
+model,validation_forecasts,mae_gbp
+Historical average,12,94933.79597777776
+Last month,12,113518.44125000005
+Linear trend,12,226130.67867142858
